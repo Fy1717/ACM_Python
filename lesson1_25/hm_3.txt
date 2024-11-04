@@ -1,0 +1,12 @@
+# Git'te en çok kullanılan 10 komut ve açıklamaları
+
+git clone: Bir Git deposunu kopyalar.
+git init: Yeni bir Git deposu başlatır.
+git add: Dosyaları izlemeye alır.
+git commit: Yapılan değişiklikleri kaydeder.
+git status: Deponun durumunu gösterir.
+git push: Yerel değişiklikleri uzak depoya gönderir.
+git pull: Uzak depodaki değişiklikleri yerel depoya çeker.
+git branch: Dal (branch) işlemlerini yönetir.
+git checkout: Farklı dallar arasında veya önceki commit'ler arasında geçiş yapar.
+git merge: İki dalı birleştirir.
